@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🌍 Based in **Tomsk, Russia**
-- 🧩 Frontend developer at **Sncard**
+- 🧩 Frontend developer at **SNCard**
 - 🔄 Working on migration from **Vue 2** to **Vue 3**
 - 🛠 Building interfaces for business systems, reports, dashboards, and internal tools
 - 📊 Experienced with dynamic tables, filters, pagination, charts, and API-driven UIs
